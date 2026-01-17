@@ -1,0 +1,30 @@
+{
+  "name": "খরচ ট্র্যাকার - আমট্রানেট",
+  "short_name": "খরচ ট্র্যাকার",
+  "description": "অফলাইন-ফার্স্ট ব্যক্তিগত খরচ ও কোম্পানি বিল ট্র্যাকিং অ্যাপ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["finance", "productivity", "business"],
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "bn"
+}
